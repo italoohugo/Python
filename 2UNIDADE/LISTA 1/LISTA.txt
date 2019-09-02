@@ -1,0 +1,11 @@
+1.	Faça um programa que inicialmente pergunte quantas vezes a frase “Aprender Lógica é muito fácil!” deverá ser repetida, imprima também o número da linha.
+
+2.	Faça um programa que inicialmente pergunte quantos números serão informados e então calcule o seu somatório e a média.
+
+3.	Faça um programa que leia uma série de números inteiros somando-os e ao final imprima o total e a sua média, o programa termina com o número informado for 0.
+
+4.	Faça um programa que leia uma sequência de 10 números positivos e, ao final, imprima o maior deles.
+
+5.	Faça um programa que leia uma série de números positivos e, ao final, imprima o maior deles. Termina com um número negativo.
+
+6.	Faça um programa que leia 2 números da entrada e imprima o resto da divisão inteira do primeiro pelo segundo usando subtrações sucessivas (ou seja, não use comando de resto: %).
